@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: trisotto.github.io
+Token: 19bea4784df4e204aa7378f5cdac08e6459428b3c89d9cb8d214fcc68e842b99
